@@ -120,3 +120,11 @@ print("🍙 This is your AccountID:")
 print(user_id_base64)
 exit(0)
 
+echo "# ps4" >> README.md 
+git init 
+git เพิ่ม README.md 
+git คอมมิต -m "first 
+comm " git branch -M main 
+git remote add origin https://github.com/got-ps4280641/ps4.git
+ git push -u ที่มาหลัก
+                
